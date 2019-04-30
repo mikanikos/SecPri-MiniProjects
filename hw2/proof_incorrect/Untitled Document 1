@@ -1,0 +1,35 @@
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Cookie info generated: administrator,1553869649,com402,hw2,ex3,administrator,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: administrator,1553869649,com402,hw2,ex3,administrator,c8abdb685189c44f80d313e5ccb308b4
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 200 -
+Cookie info generated: Pika Pika,1553869649,com402,hw2,ex3,user,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: Pika Pika,1553869649,com402,hw2,ex3,user,0.48789099194784324
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 403 -
+Cookie info generated: administrator,1553869649,com402,hw2,ex3,administrator,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: 0.3091117930515461,1553869649,com402,hw2,ex3,administrator,c8abdb685189c44f80d313e5ccb308b4
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 403 -
+Cookie info generated: Pika Pika,1553869649,com402,hw2,ex3,user,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: Pika Pika,1553869649,com402,hw2,ex3,user,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 403 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Cookie info generated: administrator,1553869649,com402,hw2,ex3,administrator,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: administrator,1553869649,com402,hw2,ex3,administrator,c8abdb685189c44f80d313e5ccb308b4
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 200 -
+Cookie info generated: Pika Pika,1553869649,com402,hw2,ex3,user,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: Pika Pika,1553869649,com402,hw2,ex3,user,0.48789099194784324
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 403 -
+Cookie info generated: administrator,1553869649,com402,hw2,ex3,administrator,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: 0.3091117930515461,1553869649,com402,hw2,ex3,administrator,c8abdb685189c44f80d313e5ccb308b4
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 403 -
+Cookie info generated: Pika Pika,1553869649,com402,hw2,ex3,user,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/login HTTP/1.1" 200 -
+Full cookie: Pika Pika,1553869649,com402,hw2,ex3,user,
+127.0.0.1 - - [29/Mar/2019 14:27:29] "POST /ex3/list HTTP/1.1" 403 -
+failure
